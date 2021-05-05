@@ -1,0 +1,11 @@
+OData: acronym for Open Data Protocol
+Protocol: set of rules
+Data: collection of information
+Open: open means any one can come in and go out i.e.
+It is an open standard that can be consumed by any application, program, software or device of any SAP or Non-SAP world
+
+-> The OData protocol is HTTP based, any programming language with HTTP stack can be used for consumung OData services.
+-> In simple words we can say OData is a web protocol which is used for unlocking and sharing data. 
+-> With OData any SAP or Non-SAP applications they can talk to each other and can share information.
+
+Link: https://www.youtube.com/watch?v=faPNXUknwFU
