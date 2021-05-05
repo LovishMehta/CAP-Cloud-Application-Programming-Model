@@ -1,0 +1,8 @@
+Meta data is nothing but the index of the data warehouse. Its just an index of which gives the clue where data is stored to the user.
+
+# types
+1)Operational - operational meta data source btata hai ki data actually kha se extract kiya gya hai.
+2)Extraction & Transformation
+3)End User
+
+Link: https://www.youtube.com/watch?v=Z3XgHVO6O3Y
